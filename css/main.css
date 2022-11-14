@@ -1,0 +1,14 @@
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 768px) {
+  body {
+    background: lightblue;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+/* Sets the background to coral on ALL browsers that are larger than 1200px*/
+@media (min-width: 1200px) {
+  body {
+    background: coral;
+  }
+}
